@@ -1,0 +1,14 @@
+.modalCard {
+  transform-style: preserve-3d;
+}
+
+.characterImage {
+  transform-style: preserve-3d;
+}
+
+.strengthBar {
+  height: 100%;
+  background-color: #a855f7;
+  width: var(--strength);
+  transition: width 0.3s ease;
+}
